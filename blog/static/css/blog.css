@@ -13,9 +13,11 @@
 .content {
     margin-left: 40px;
 }
-
-h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+h1 {
+	font-family: 'Shadows Into Light', cursive, bold;
+}
+h2, h3, h4 {
+	font-family: 'Shadows Into Light', cursive;
 }
 
 .date {
